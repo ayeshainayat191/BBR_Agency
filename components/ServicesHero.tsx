@@ -13,7 +13,7 @@ const ServicesHero = () => {
     >
       {/* 1. Subheader */}
       <h4 className="text-zinc-300 text-lg md:text-2xl font-medium mb-12 tracking-wide">
-        End-to-end Services to Help you to Find SucceSS Online
+        End-to-end services to help you to find success online
       </h4>
 
       {/* 2. Buttons (No shadow, with pointer) */}

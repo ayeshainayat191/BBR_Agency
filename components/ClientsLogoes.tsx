@@ -31,16 +31,16 @@ const MarqueeRow = ({ direction = "left", duration = 20, speed = 1 }) => {
             ease: "linear",
           },
         }}
-        className="flex flex-none gap-10 md:gap-16 pr-10 md:pr-16 py-4"
+        className="flex flex-none gap-3 "
       >
         {duplicatedLogos.map((logo, index) => (
           <div key={index} className="flex-none flex items-center justify-center">
             <Image
               src={logo.src}
               alt={logo.alt}
-              width={180}
-              height={60}
-              className="h-8 md:h-12 w-auto opacity-40 hover:opacity-100 transition-all duration-300 grayscale hover:grayscale-0 cursor-pointer"
+              width={300}
+              height={100}
+              className="h-8 md:h-20 w-auto opacity-70 hover:opacity-100 transition-all duration-300 cursor-pointer"
             />
           </div>
         ))}
@@ -53,7 +53,7 @@ const LogoTicker = () => {
   return (
     <section className="bg-black py-20 overflow-hidden">
 
-      <div className="flex flex-col gap-8 md:gap-12">
+      <div className="flex flex-col gap-4 ">
         {/* ROW 1: Moves Left, Fast */}
         <MarqueeRow direction="left" speed={1.2} duration={25} />
 

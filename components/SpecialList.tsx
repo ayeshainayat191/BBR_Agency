@@ -67,10 +67,10 @@ const SpecialistsSection = () => {
             className="text-6xl md:text-8xl font-black mb-12 leading-[0.85] tracking-tighter text-transparent"
             style={{ WebkitTextStroke: '1.5px black' }}
           >
-            Work Only with Specialists
+            Work Only With Specialists
           </h2>
-          <p className="text-2xl md:text-3xl font-regular leading-tight max-w-5xl">
-            You would never go to your GP for heart surgery. We've handpicked our team to be top-notch web designers and true web purists.
+          <p className="text-2xl md:text-3xl font-regular leading-tight ">
+            Our team is made up of experienced specialists dedicated to delivering quality outcomes. We focus on practical solutions that help your business move forward with confidence.
           </p>
         </motion.div>
 

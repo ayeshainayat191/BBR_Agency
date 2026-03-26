@@ -13,7 +13,7 @@ const PortfolioHero = () => {
     >
       {/* 1. Subheader */}
       <h4 className="text-zinc-300 text-lg md:text-2xl font-medium mb-12 tracking-wide">
-        Give Your Client 100% Confidence
+        Give your client 100% confidence
       </h4>
 
       {/* 2. Buttons (No shadow, with pointer) */}

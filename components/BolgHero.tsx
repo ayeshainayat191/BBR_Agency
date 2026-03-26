@@ -13,7 +13,7 @@ const BolgHero = () => {
     >
       {/* 1. Subheader */}
       <h4 className="text-zinc-300 text-lg md:text-2xl font-medium mb-12 tracking-wide">
-        Latest Insights & Inspirations
+        Latest insights & inspirations
       </h4>
 
       {/* 2. Buttons (No shadow, with pointer) */}
