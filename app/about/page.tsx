@@ -9,10 +9,8 @@ import AboutUsHero from '@/components/aboutUsHero';
 import RequestForm from '@/components/RequestForm';
 import CeoMsg from '@/components/CeoMsg';
 import WhoWeAre from '@/components/WhoWeAre';
-<<<<<<< HEAD
 import VisionMission from '@/components/VisionMission';
-=======
->>>>>>> 3b3bd094b511b12407f381c7abe9f6504d63bde3
+
 
 
 export default function AboutUs() {
@@ -24,16 +22,13 @@ export default function AboutUs() {
 
       {/* 2. Main Content Area */}
       <div className="flex-1 w-full">
-        <AboutUsHero/>
-        <CeoMsg/>
-        <WhoWeAre/>
-<<<<<<< HEAD
-        <VisionMission/>
-=======
->>>>>>> 3b3bd094b511b12407f381c7abe9f6504d63bde3
+        <AboutUsHero />
+        <CeoMsg />
+        <WhoWeAre />
+        <VisionMission />
         <Escrow />
         <FAQ />
-        <RequestForm/>
+        <RequestForm />
         
        
         
