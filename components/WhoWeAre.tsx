@@ -61,11 +61,11 @@ export default function IdentitySection() {
               `}
             >
               {/* Image Container */}
-              <div className="w-full aspect-[3/4] overflow-hidden mb-6 rounded-xl md:rounded-none bg-zinc-900">
+              <div className="w-full aspect-[3/4] overflow-hidden mb-6 rounded-xl md:rounded-none ">
                 <img 
                   src={member.img} 
                   alt={member.name}
-                  className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 group-hover:scale-105"
+                  className="w-full h-full object-cover "
                 />
               </div>
               
