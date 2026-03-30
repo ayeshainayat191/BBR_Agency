@@ -182,7 +182,7 @@ Our goal isn’t just to deliver services, but to build long-term relationships 
               className="mb-8"
             >
               <h3 className="text-xl font-bold text-black tracking-tight mb-1">
-                Be seen as the
+                From the
               </h3>
               <h2 
                 className="text-5xl font-black uppercase leading-[1]"
@@ -191,7 +191,7 @@ Our goal isn’t just to deliver services, but to build long-term relationships 
                   color: "transparent" 
                 }}
               >
-                Obvious <br/> 1st Choice
+                Founder’s Perspective
               </h2>
             </motion.div>
 
@@ -234,10 +234,13 @@ Our goal isn’t just to deliver services, but to build long-term relationships 
           >
             <div className="space-y-8 text-[16px] text-zinc-100 leading-relaxed font-medium">
               <p>
-                Web design is more than just looking good! We create highly engaging custom websites that make your phone ring. After all, your website is your ultimate sales tool & best credibility check for confidence. Flexing our 3 key muscles of web design, web development and conversion experience, our Melbourne UI/UX specialists blend human behaviour “pre-suasion” psychology with technology to visually communicate your true value.
-                <br/><br/>
-                With a dedicated team of 15+ full-time experts, a strong Melbourne presence and 15+ years of insights, we’re honoured to have received 151+ 5 star Google reviews and 80+ awards & recognitions since 2009. This gives our clients specialist digital knowledge and a conversion framework that significantly reduces their marketing wastage and maximises their online web design & development engagement results.
-              </p>
+                As we grow, our commitment to doing things the right way stays the same. Integrity is at the heart of every decision we make, guiding how we work with clients and each other.
+We strongly believe that real success comes from collaboration, where ideas are shared openly, and every voice adds value. It’s this teamwork that allows us to create solutions that truly make a difference.
+                    <br/><br/>
+                  Curiosity drives us forward. We’re always learning, exploring, and challenging ourselves to improve with every project we take on.
+
+Our goal isn’t just to deliver services, but to build long-term relationships based on trust, quality, and continuous growth. 
+                  </p>
             </div>
           </motion.div>
 
